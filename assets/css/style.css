@@ -1,0 +1,39 @@
+
+.imagen-viajes {
+    width: 50px;
+    height: 50px;
+}
+body {
+    background-color: black;
+}
+p {
+    color: white;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
+.card-text {
+    color: black;
+}
+.card {
+background-color: darkturquoise;
+}
+
+.formulario {
+    color:white 
+}
+.titulofooter {
+    color:white;
+}
+.footercolor {
+    background-color:darkturquoise;
+}
+.link {
+    text-align:right;
+}
+.seccioncontacto {
+    text-align: center;    
+}

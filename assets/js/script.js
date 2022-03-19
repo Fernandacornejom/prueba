@@ -1,0 +1,1 @@
+$("#quienesomosnav").dblclick(function)
